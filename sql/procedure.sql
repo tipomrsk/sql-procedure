@@ -9,8 +9,6 @@ CREATE PROCEDURE insertProcedure()
             -- VAR DECLARATION 
             -- @i is the var to delimit the while
             DECLARE i INT DEFAULT 0;
-
-            -- @randNumber é um valor aleatório
             DECLARE randNumber INT DEFAULT 0;
 
 
